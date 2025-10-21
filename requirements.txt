@@ -1,0 +1,7 @@
+# ERPx Requirements
+# Core system has no external dependencies for simplicity
+# All functionality is built with Python standard library
+
+# Development dependencies (optional)
+pytest>=7.0
+pytest-cov>=4.0
