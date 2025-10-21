@@ -125,8 +125,8 @@ export interface NFRs {
   i18n_locales?: string[];        // e.g. ["es-PA", "en-US"]
 }
 
-export interface IAERPStack {
-  project_name: "IA_ERP";
+export interface ERPxStack {
+  project_name: "ERPx";
   domain_focus: string[];         // e.g. ["sales", "inventory", "accounting"]
   frontend: TechChoice[];         // e.g. Next.js, Tailwind, shadcn/ui
   backend: TechChoice[];          // e.g. FastAPI, Node/NestJS

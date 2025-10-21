@@ -1,5 +1,9 @@
 # ERPx
 
+ERPx is an experimental ERP platform that fuses operational data, robotic process automation, and intelligent decisioning to guide enterprise actions.
+Our modular stack codifies architecture choices, governance, and AI capabilities so operations anticipate change instead of merely adapting.
+Value proposition: ERPs will no longer be just systems of record—they will become systems of recommendation and decision.
+
 ## Definiciones del stack
 
 ### Niveles de Prioridad (`PriorityLevel`)
@@ -53,8 +57,8 @@ Conjunto de herramientas para la experiencia del desarrollador que cubre gestor 
 ### Requisitos No Funcionales (`NFRs`)
 Requisitos no funcionales como disponibilidad, latencia, retención de datos, cumplimiento y localización.
 
-### Stack IA_ERP (`IAERPStack`)
-Plano integral de la solución IA_ERP que abarca dominios, elecciones tecnológicas, operaciones y hoja de ruta.
+### Stack ERPx (`ERPxStack`)
+Plano integral de la solución ERPx que abarca dominios, elecciones tecnológicas, operaciones y hoja de ruta.
 
 ### Riesgo (`RiskItem`)
 Riesgo identificado con estrategia de mitigación, severidad y dominios de negocio afectados.

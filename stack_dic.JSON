@@ -67,9 +67,9 @@
     "en": "Non-functional requirements such as availability, latency, data retention, compliance, and localization.",
     "es": "Requisitos no funcionales como disponibilidad, latencia, retención de datos, cumplimiento y localización."
   },
-  "IAERPStack": {
-    "en": "Comprehensive blueprint of the IA_ERP solution spanning domains, technology choices, operations, and roadmap.",
-    "es": "Plano integral de la solución IA_ERP que abarca dominios, elecciones tecnológicas, operaciones y hoja de ruta."
+  "ERPxStack": {
+    "en": "Comprehensive blueprint of the ERPx solution spanning domains, technology choices, operations, and roadmap.",
+    "es": "Plano integral de la solución ERPx que abarca dominios, elecciones tecnológicas, operaciones y hoja de ruta."
   },
   "RiskItem": {
     "en": "Identified risk with mitigation strategy, severity, and impacted business domains.",
