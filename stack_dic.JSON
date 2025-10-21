@@ -1,0 +1,78 @@
+{
+  "PriorityLevel": {
+    "en": "Priority tags that classify requirements as mandatory, recommended, or optional.",
+    "es": "Etiquetas de prioridad que clasifican los requisitos como obligatorios, recomendados u opcionales."
+  },
+  "AdoptionStatus": {
+    "en": "Lifecycle marker indicating whether a technology is currently adopted, proposed, or being phased out.",
+    "es": "Indicador del ciclo de vida que señala si una tecnología está adoptada, propuesta o en retiro."
+  },
+  "TechMetric": {
+    "en": "Structured measurement that captures quantitative indicators tied to a technology choice.",
+    "es": "Medición estructurada que recoge indicadores cuantitativos ligados a una elección tecnológica."
+  },
+  "TechChoice": {
+    "en": "Detailed record of a technology option including rationale, maturity, costs, and alternatives.",
+    "es": "Registro detallado de una opción tecnológica que incluye justificación, madurez, costos y alternativas."
+  },
+  "ConstraintItem": {
+    "en": "Weighted business or technical constraint with priority, desired outcomes, and rationale.",
+    "es": "Restricción técnica o de negocio ponderada con prioridad, resultados deseados y justificación."
+  },
+  "OperationalContext": {
+    "en": "Snapshot of team size, skills, budget, and regulatory environment informing technology decisions.",
+    "es": "Panorama del tamaño del equipo, habilidades, presupuesto y entorno regulatorio que guía las decisiones tecnológicas."
+  },
+  "TimelineConstraint": {
+    "en": "Milestone definition describing phases, dates, goals, and dependencies for delivery.",
+    "es": "Definición de hitos que describe fases, fechas, metas y dependencias para la entrega."
+  },
+  "HistoricalDecision": {
+    "en": "Log entry summarizing past architectural choices and the outcomes they produced.",
+    "es": "Registro que resume decisiones arquitectónicas previas y los resultados obtenidos."
+  },
+  "EvaluationCriterion": {
+    "en": "Scoring dimension with weight and target thresholds used to compare stack alternatives.",
+    "es": "Dimensión de evaluación con peso y umbrales objetivo para comparar alternativas del stack."
+  },
+  "CloudTarget": {
+    "en": "Selected cloud provider and region along with the reasoning behind the choice.",
+    "es": "Proveedor y región en la nube seleccionados junto con la justificación de la elección."
+  },
+  "CostGuardrails": {
+    "en": "Budget constraints and cost optimization tactics that bound the solution's expenses.",
+    "es": "Restricciones de presupuesto y tácticas de optimización de costos que limitan los gastos de la solución."
+  },
+  "SecurityOps": {
+    "en": "Security posture covering authentication, secrets management, and governing policies.",
+    "es": "Postura de seguridad que abarca autenticación, gestión de secretos y políticas de gobierno."
+  },
+  "Observability": {
+    "en": "Instrumentation stack for logging, metrics, tracing, and operational dashboards.",
+    "es": "Stack de instrumentación para registros, métricas, trazas y tableros operativos."
+  },
+  "DataLayer": {
+    "en": "Core data infrastructure choices including databases, caches, search, analytics, and messaging.",
+    "es": "Elecciones de la infraestructura de datos que incluyen bases de datos, cachés, búsqueda, analítica y mensajería."
+  },
+  "AIModule": {
+    "en": "AI capabilities covering inference providers, vector storage, pipelines, and safety controls.",
+    "es": "Capacidades de IA que abarcan proveedores de inferencia, almacenamiento vectorial, pipelines y controles de seguridad."
+  },
+  "DevEx": {
+    "en": "Developer experience toolkit spanning package management, code generation, CI/CD, and testing.",
+    "es": "Conjunto de herramientas para la experiencia del desarrollador que cubre gestor de paquetes, generación de código, CI/CD y pruebas."
+  },
+  "NFRs": {
+    "en": "Non-functional requirements such as availability, latency, data retention, compliance, and localization.",
+    "es": "Requisitos no funcionales como disponibilidad, latencia, retención de datos, cumplimiento y localización."
+  },
+  "IAERPStack": {
+    "en": "Comprehensive blueprint of the IA_ERP solution spanning domains, technology choices, operations, and roadmap.",
+    "es": "Plano integral de la solución IA_ERP que abarca dominios, elecciones tecnológicas, operaciones y hoja de ruta."
+  },
+  "RiskItem": {
+    "en": "Identified risk with mitigation strategy, severity, and impacted business domains.",
+    "es": "Riesgo identificado con estrategia de mitigación, severidad y dominios de negocio afectados."
+  }
+}
