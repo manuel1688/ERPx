@@ -1,8 +1,6 @@
 # ERPx
 
-ERPx is an experimental ERP platform that fuses operational data, robotic process automation, and intelligent decisioning to guide enterprise actions.
-Our modular stack codifies architecture choices, governance, and AI capabilities so operations anticipate change instead of merely adapting.
-Value proposition: ERPs will no longer be just systems of record—they will become systems of recommendation and decision.
+ERPx is an experimental ERP system of recommendation and decision.
 
 ## Definiciones del stack
 
